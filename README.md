@@ -8,3 +8,6 @@
   <li>React</li>
   <li>React Native</li>
 </ul>
+
+<h3>O repositório contém várias pastas de modo que cadas pasta é um projeto diferente. Ao executar os scripts do projeto, lembre-se de entrar na pasta do projeto antes.</h3>
+
